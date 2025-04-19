@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Patrick!</h1>
-<h3 align="center">I'm a passionate software developer with a focus on building efficient and scalable applications. I'm currently a student at George Brown College.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infinitewumbo&label=Profile%20views&color=0e75b6&style=flat" alt="infinitewumbo" /> </p>
 
