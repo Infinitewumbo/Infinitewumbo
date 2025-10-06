@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Patrick!</h1>
+<h1 align="center">Hi 👋, I'm Patrick Millares!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=infinitewumbo&label=Profile%20views&color=0e75b6&style=flat" alt="infinitewumbo" /> </p>
 
